@@ -1,16 +1,16 @@
 # python-api-challenge
 Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. Built the series of scatter plots to showcase various relationships
 
-![Image of Latitude Vs Cloudiness](https://github.com/ibawany65/pythonapi/blob/master/Images/LatVsCloudiness.png)
+![Image of Latitude Vs Cloudiness](https://github.com/ibawany65/pythonapi/Images/LatVsCloudiness.png)
 
 ---------------------------------
-![Image of Latitude Vs Humidity](https://github.com/ibawany65/pythonapi/blob/master/Images/LatVsHumidity.png)
+![Image of Latitude Vs Humidity](https://github.com/ibawany65/pythonapi/Images/LatVsHumidity.png)
 
 ---------------------------------
-![Image of Latitude Vs Maximum Temperature](https://github.com/ibawany65/pythonapi/blob/master/Images/LatVsTemperature.png)
+![Image of Latitude Vs Maximum Temperature](https://github.com/ibawany65/pythonapi/Images/LatVsTemperature.png)
 
 ---------------------------------
-![Image of Latitude Vs Wind Speed](https://github.com/ibawany65/pythonapi/blob/master/Images/LatVsWind.png)
+![Image of Latitude Vs Wind Speed](https://github.com/ibawany65/pythonapi/Images/LatVsWind.png)
 
 ---------------------------------
 # Key trends observed
